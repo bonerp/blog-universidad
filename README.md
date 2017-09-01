@@ -1,2 +1,8 @@
-# blog-universidad
-Es una proyecto dedicado al estudio universitario desde un blog de eventos
+Blo Universidad 
+
+[Descripción del proyecto]
+
+[Como se instala]
+#requisitos
+#version
+#encargados 
